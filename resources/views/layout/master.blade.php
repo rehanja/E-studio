@@ -46,7 +46,7 @@
 
             <div class="col-3 ">
               <div class="site-logo">
-                <a href="index.html" class="font-weight-bold">Welcome</a>
+                <a href="http://127.0.0.1:8000/" class="font-weight-bold">Welcome</a>
               </div>
             </div>
 

@@ -33,13 +33,13 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="post-entry-1 h-100">
               <a href="single.html">
-                <img src="tampilandepan/images/img_1.jpg" alt="Image"
+                <img src="tampilandepan/images/timthumb.jpg" alt="Image"
                  class="img-fluid">
               </a>
               <div class="post-entry-1-contents">
                 
                 <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
+                <span class="meta d-inline-block mb-3">December 30, 2020 <span class="mx-2">by</span> <a href="#">E studio</a></span>
                 <p></p>
               </div>
             </div>
@@ -53,7 +53,51 @@
               <div class="post-entry-1-contents">
                 
                 <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
+                <span class="meta d-inline-block mb-3">December 31, 2018 <span class="mx-2">by</span> <a href="#">E studio</a></span>
+                <p></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="post-entry-1 h-100">
+              <a href="single.html">
+                <img src="tampilandepan/images/38606174364_d8f3912a36_b.jpg" alt="Image"
+                 class="img-fluid">
+              </a>
+              <div class="post-entry-1-contents">
+                
+                <h2><a href="single.html"></a></h2>
+                <span class="meta d-inline-block mb-3">March 30, 2019 <span class="mx-2">by</span> <a href="#">E studio</a></span>
+                <p></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="post-entry-1 h-100">
+              <a href="single.html">
+                <img src="tampilandepan/images/bw1.jpg" alt="Image"
+                 class="img-fluid">
+              </a>
+              <div class="post-entry-1-contents">
+                
+                <h2><a href="single.html"></a></h2>
+                <span class="meta d-inline-block mb-3">May 03, 2018 <span class="mx-2">by</span> <a href="#">E studio</a></span>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="post-entry-1 h-100">
+              <a href="single.html">
+                <img src="tampilandepan/images/unnamed.jpg" alt="Image"
+                 class="img-fluid">
+              </a>
+              <div class="post-entry-1-contents">
+                
+                <h2><a href="single.html"></a></h2>
+                <span class="meta d-inline-block mb-3">January 05, 2019 <span class="mx-2">by</span> <a href="#">E studio</a></span>
                 <p></p>
               </div>
             </div>
@@ -68,51 +112,7 @@
               <div class="post-entry-1-contents">
                 
                 <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
-                <p></p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="post-entry-1 h-100">
-              <a href="single.html">
-                <img src="tampilandepan/images/img_1.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                
-                <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
-                <p></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="post-entry-1 h-100">
-              <a href="single.html">
-                <img src="tampilandepan/images/img_2.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                
-                <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
-                <p></p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="post-entry-1 h-100">
-              <a href="single.html">
-                <img src="tampilandepan/images/img_3.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                
-                <h2><a href="single.html"></a></h2>
-                <span class="meta d-inline-block mb-3">Desember 30, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
+                <span class="meta d-inline-block mb-3">July 10, 2019 <span class="mx-2">by</span> <a href="#">E studio</a></span>
                 <p></p>
               </div>
             </div>

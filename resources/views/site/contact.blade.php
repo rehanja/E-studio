@@ -66,9 +66,9 @@
               <ul class="list-unstyled footer-link">
                 <li class="d-block mb-3">
                   <span class="d-block text-black">Address:</span>
-                  <span>Jl Supriel Raya, Kota Bekasi, 17121</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>+62 242 4942 7865</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Email:</span><span>wedding@gmail.com</span></li>
+                  <span>No 25, National housing scheeme, Keppetipola ,Colombo</span></li>
+                <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>+94 242 4942 7865</span></li>
+                <li class="d-block mb-3"><span class="d-block text-black">Email:</span><span>wtharumininavithara@gmail.com</span></li>
               </ul>
             </div>
           </div>

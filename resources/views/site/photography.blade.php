@@ -7,7 +7,7 @@
           <div class="row align-items-center">
             <div class="col-md-7">
               <h1 class="mb-3 text-primary">Photography Works</h1>
-              <p>Berbagai macam vendor ada di website kami</p>
+              <p> Photographers are artists with the camera, using a blend of technical skills and an artistic eye to take pictures of people, places, landscapes, food, you name it. Photographers can work as fine artists, wedding and event photographers, or sell their photos to commercial clients.i</p>
               <p><a href="#" class="btn btn-primary">Contact Me</a></p>
             </div>
           </div>
@@ -132,7 +132,7 @@
         <div class="row justify-content-center">
           <div class="col-md-8">
 
-            <a href="https://vimeo.com/191947042" data-fancybox  class="btn-video_38929">
+            <a href="https://www.youtube.com/watch?v=fpOWIVq_Wc8" data-fancybox  class="btn-video_38929">
               <span><span class="icon-play"></span></span>
               <img src="tampilandepan/images/img_1.jpg" alt="Image" class="img-fluid">
             </a>
