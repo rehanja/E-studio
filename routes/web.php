@@ -73,5 +73,8 @@ Route::resource('owner','OwnerController');
 
 });
 
+//After login
 
-
+Route::get('/purchase', function () {
+    return view('/purchase/create');
+});
